@@ -1,7 +1,7 @@
 
-# Evinced SDK - usage example:
+# Evinced SDK w/ Local SDK install - usage example:
 ## Java Selenium v4.x + Cucumber BDD v6.x
-
+follow installation step https://developer.evinced.com/sdks-for-web-apps/selenium-java-sdk#installation
 
 
 ## Contents:
