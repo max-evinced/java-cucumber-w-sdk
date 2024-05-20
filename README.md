@@ -6,7 +6,7 @@ taken from https://github.com/GetEvinced/web-sdks-examples/tree/master/selenium/
 
 ## Install/setup
 1. get SDK + POM file
-2. `mvn install:install-file –DFile=/Users/mdobeck/Downloads/selenium-sdk-3.3.4.jar -DpomFile=/Users/mdobeck/Downloads/selenium-sdk-3.3.4.pom` or put it in a new directory with the pom.xml and other files.
+2. `mvn install:install-file -Dfile=/Users/mdobeck/Downloads/selenium-sdk-3.3.4.jar -DpomFile=/Users/mdobeck/Downloads/selenium-sdk-3.3.4.pom` or put it in a new directory with the pom.xml and other files.
 3. Observe the external Evinced jar is installed in `$HOME/.m2/..etc..etc../`
 
 
